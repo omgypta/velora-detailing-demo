@@ -1,0 +1,6 @@
+{
+  "name": "Velora",
+  "description": "Velora | Premium Mobile Auto Detailing — Exceptional finish. Wherever you are.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
